@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marco\\Desktop\\GIThub projGit0123\\ProjGit0123\\ProgGit0123.vbproj": {}
+    "C:\\Users\\marco\\Desktop\\Github Alvaraes projGit0123\\ProjGit0123\\ProgGit0123.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\marco\\Desktop\\GIThub projGit0123\\ProjGit0123\\ProgGit0123.vbproj": {
+    "C:\\Users\\marco\\Desktop\\Github Alvaraes projGit0123\\ProjGit0123\\ProgGit0123.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marco\\Desktop\\GIThub projGit0123\\ProjGit0123\\ProgGit0123.vbproj",
+        "projectUniqueName": "C:\\Users\\marco\\Desktop\\Github Alvaraes projGit0123\\ProjGit0123\\ProgGit0123.vbproj",
         "projectName": "ProgGit0123",
-        "projectPath": "C:\\Users\\marco\\Desktop\\GIThub projGit0123\\ProjGit0123\\ProgGit0123.vbproj",
+        "projectPath": "C:\\Users\\marco\\Desktop\\Github Alvaraes projGit0123\\ProjGit0123\\ProgGit0123.vbproj",
         "packagesPath": "C:\\Users\\marco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marco\\Desktop\\GIThub projGit0123\\ProjGit0123\\obj\\",
+        "outputPath": "C:\\Users\\marco\\Desktop\\Github Alvaraes projGit0123\\ProjGit0123\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\marco\\AppData\\Roaming\\NuGet\\NuGet.Config",
